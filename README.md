@@ -10,3 +10,4 @@ The Tik Barrel will drop every item the barrel has which is not the item you hav
 
 # Enjoy!
 Please refer to me if you publish anything about this datapack.
+Btw I didn't steal this datapack, I have 2 internet-names. tikotap and g33king :)
