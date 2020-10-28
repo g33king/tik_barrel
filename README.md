@@ -11,7 +11,7 @@ A datapack based on Mumbo Jumbo's suggestion on 1.14. His video: https://www.you
 
 The Tik Barrel will drop every item the barrel has which is not the item you have chosen.
 
-Creating a Tik Barrel
+Creating a Tik Barrel    
 ![Image of creating a tik barrel](docs/filter.png)
 
 Using a melon as a filter
