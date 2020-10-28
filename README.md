@@ -24,7 +24,7 @@ After 1 (The filtered items on the floor)
 ![Image of filtered items on the floor](docs/after1.png)
 
 After 2 (The inventory of me & the Tik Barrel, to show it's working)
-![Image of inventories, the datapack is working](docs/filter.png)
+![Image of inventories, the datapack is working](docs/after2.png)
 
 ## Enjoy!
 Please refer to me if you publish anything about this datapack.
