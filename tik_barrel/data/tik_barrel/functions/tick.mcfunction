@@ -16,8 +16,6 @@ execute as @e[scores={tikBarrelHandEqu=1..}] at @s run function tik_barrel:clear
 execute as @e[name=tikBarrel] at @s unless block ~ ~ ~ minecraft:barrel run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:item_frame",Count:1b,tag:{display:{Name:'{"text":"filter"}'}}}}
 execute as @e[name=tikBarrel] at @s unless block ~ ~ ~ minecraft:barrel run kill @s
 
-execute as @e[name=tikBarrel] at @s if entity @e[name=tikBarrel,distance=..1] run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:item_frame",Count:1b,tag:{display:{Name:'{"text":"filter"}'}}}}
-
 scoreboard players set @e tikBarrelChange 0
 scoreboard players set @e tikBarrelItemEqu 0
 scoreboard players set @e tikBarrelHandEqu 0
