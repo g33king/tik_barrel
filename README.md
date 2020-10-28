@@ -15,7 +15,7 @@ Creating a Tik Barrel
 ![Image of creating a tik barrel](docs/filter.png)
 
 Using a melon as a filter
-![Image of using melon as a filter](docs/filtering melon.png)
+![Image of using melon as a filter](docs/filtering_melon.png)
 
 Before (i disabled the datapack so you can see what is going on)
 ![Image of before it's working](docs/before.png)
